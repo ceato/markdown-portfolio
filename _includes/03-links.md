@@ -1,1 +1,1 @@
-[GitHub] (https://github.com/ceato)
+[GitHub](https://github.com/ceato)
